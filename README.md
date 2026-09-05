@@ -17,7 +17,7 @@ That repository is currently private, so the code and manuscripts live there.
 
 # 高圧・高温下における NV センターのゼロフォノン線
 
-作成者: 阿部 理生（東京科学大学）
+作成者: 阿部李星（東京科学大学）
 
 このリポジトリは、高圧・高温下での NV センターのゼロフォノン線に関する研究の公開用入口です。
 
